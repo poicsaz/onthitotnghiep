@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chia sẻ Học liệu - Kiếm tiền từ quảng cáo</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800">
+  <div class="max-w-4xl mx-auto p-6">
+    <h1 class="text-3xl font-bold mb-6 text-center">🎓 Kho Học Liệu & Tài Liệu Luyện Thi</h1>
+
+    <h2 class="text-xl font-semibold mb-2">📺 Video Học Tập</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+      <div class="p-4 bg-white rounded-xl shadow">
+        <h3 class="font-bold">Video: Ôn tập Toán 12</h3>
+        <p class="text-sm mb-2">Bài giảng tổng hợp các chủ đề trọng tâm ôn thi THPT Quốc gia.</p>
+        <a href="https://linkvertise.com/video-toan12" target="_blank" class="inline-block px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Xem Video</a>
+      </div>
+      <div class="p-4 bg-white rounded-xl shadow">
+        <h3 class="font-bold">Video: Lý thuyết Hóa học 11</h3>
+        <p class="text-sm mb-2">Củng cố kiến thức cơ bản & nâng cao.</p>
+        <a href="https://linkvertise.com/video-hoa11" target="_blank" class="inline-block px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Xem Video</a>
+      </div>
+    </div>
+
+    <h2 class="text-xl font-semibold mb-2">📘 Tài Liệu Luyện Thi</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div class="p-4 bg-white rounded-xl shadow">
+        <h3 class="font-bold">Tài liệu: Đề thi thử Toán 2024</h3>
+        <p class="text-sm mb-2">Tổng hợp đề và đáp án từ các trường chuyên.</p>
+        <a href="https://linkvertise.com/de-thi-thu-toan" target="_blank" class="inline-block px-4 py-2 bg-green-600 text-white rounded hover:bg-green-700">Tải Tài Liệu</a>
+      </div>
+      <div class="p-4 bg-white rounded-xl shadow">
+        <h3 class="font-bold">Tài liệu: Ngữ pháp Tiếng Anh</h3>
+        <p class="text-sm mb-2">Ôn tập chuyên sâu ngữ pháp và bài tập kèm đáp án.</p>
+        <a href="https://linkvertise.com/ngu-phap-anh" target="_blank" class="inline-block px-4 py-2 bg-green-600 text-white rounded hover:bg-green-700">Tải Tài Liệu</a>
+      </div>
+    </div>
+
+    <p class="text-xs text-center text-gray-500 mt-8">* Các link sẽ chuyển bạn qua trang quảng cáo. Vui lòng chờ vài giây để tiếp tục đến nội dung chính.</p>
+  </div>
+</body>
+</html>
